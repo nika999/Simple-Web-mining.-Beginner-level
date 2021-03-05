@@ -13,7 +13,7 @@ And we have this table as a result of the first step:
 Here we will unload data from the https://www.work.ua/jobs-kyiv-data+analyst/ which will contain job title and hiring company.
 In order to get all the data on request from this site, we will have to upload data from several pages:
 
-![image](https://user-images.githubusercontent.com/28656085/109988509-437ac480-7d10-11eb-8174-49bab1b2723c.png)
+![image](https://user-images.githubusercontent.com/28656085/110165069-017a7d00-7dfb-11eb-91a9-dcaf6ece3af9.png)
 
 And we have csv file as a result of the second step:
 
