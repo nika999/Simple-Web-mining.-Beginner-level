@@ -19,3 +19,15 @@ And we have csv file as a result of the second step:
 
 ![image](https://user-images.githubusercontent.com/28656085/109988630-660cdd80-7d10-11eb-9222-38f98811e815.png)
 
+## Third step
+What if we want to gather information from the inner part of articles? 
+
+To do it we need to gather links of these articles and than go through them to gather inner information.
+
+Study 3rd step to learn how to do it.
+
+![image](https://user-images.githubusercontent.com/28656085/110164002-75b42100-7df9-11eb-9b21-e1c13c32b91d.png)
+
+As a result we have titles and time from the inner side of articles:
+
+![image](https://user-images.githubusercontent.com/28656085/110164420-0854c000-7dfa-11eb-9b60-817ef1c4239d.png)
